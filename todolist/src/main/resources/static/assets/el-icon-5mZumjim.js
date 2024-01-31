@@ -1,0 +1,1 @@
+/* empty css             */import"./api-bE-7tO98.js";import{r,b as t,c as s,G as p}from"./index-Txr9QX3w.js";const f={__name:"MyCalendar",setup(m,{expose:o}){const e=r(new Date);return o({dateRef:e}),(_,a)=>{const l=p;return t(),s(l,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=n=>e.value=n)},null,8,["modelValue"])}}};export{f as _};
